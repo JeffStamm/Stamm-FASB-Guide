@@ -27,8 +27,8 @@ These industry guides go beyond the ASC codification to provide **practical acco
 | Industry | Guide | Key Topics |
 |----------|-------|------------|
 | **Construction** | [Construction Contractors](construction-contractors.md) | ASC 606 over time revenue, WIP schedules, change orders, claims, joint ventures, bonding |
-| *Real Estate* | *Coming Soon* | Property development, rental income, common area maintenance |
-| *Manufacturing* | *Coming Soon* | Inventory costing, standard costs, overhead allocation |
+| **Real Estate** | [Real Estate](real-estate.md) | Lessor accounting, straight-line rent, CAM, development costs, asset acquisitions, JVs |
+| **Manufacturing** | [Manufacturing](manufacturing.md) | Inventory costing, standard costs, overhead allocation, E&O reserves, warranties |
 | *Healthcare* | *Coming Soon* | Third-party reimbursement, charity care, capitation |
 | *Restaurants* | *Coming Soon* | Franchise accounting, gift cards, loyalty programs |
 | *Professional Services* | *Coming Soon* | Time-based billing, contingent fees, unbilled WIP |
