@@ -102,12 +102,20 @@ Detailed accounting guides for specific industries — covering practical applic
 | Industry | Guide | Key Topics |
 |----------|-------|------------|
 | **Construction** | [Construction Contractors](docs/industry-guides/construction-contractors.md) | % complete revenue, WIP schedules, change orders, claims, bonding |
-| *Real Estate* | *Coming Soon* | Development, rentals, CAM charges |
-| *Manufacturing* | *Coming Soon* | Inventory costing, overhead allocation |
+| **Real Estate** | [Real Estate](docs/industry-guides/real-estate.md) | Lessor accounting, straight-line rent, CAM, development costs |
+| **Manufacturing** | [Manufacturing](docs/industry-guides/manufacturing.md) | Inventory costing, overhead allocation, standard costs, warranties |
 | *Healthcare* | *Coming Soon* | Reimbursement, charity care |
 | *Professional Services* | *Coming Soon* | Time billing, contingent fees |
 
 **[View All Industry Guides →](docs/industry-guides/README.md)**
+
+---
+
+## Financial Statement Disclosure Examples
+
+Ready-to-adapt footnote templates for private company financial statements — accounting policies, assets, liabilities, equity, revenue, and other common disclosures, with bracketed placeholders and ASC references.
+
+**[View Disclosure Templates →](docs/disclosure-examples/README.md)**
 
 ---
 
